@@ -1,0 +1,9 @@
+h2 {
+  color: blue;
+  margin-top: 2em;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 20px;
+}
